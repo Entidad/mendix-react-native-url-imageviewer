@@ -5,12 +5,16 @@ Render image from URL attribute
 Allows rendition of image from URL attribute
 
 ## Usage
+Download one of the releases or build from source as follows
+
 ```
 git clone https://github.com/Entidad/mendix-react-url-imageviewer.git
 cd ./mendix-react-url-imageviewer
 npm install
 npm run build
 ```
+
+Deploy `entidad.Reactnativeurlviewer.mpk` to `$PROJ/widgets`, execute `Synchronize App Directory` in Mendix IDE (`alt-f4` or invoke `Menu/App/Synchronize App Directory`. Set up widget some context passing component like a `DataView` and configure `width`, `height`, and `URI` attributes.
 
 ## Demo project
 None at this time
