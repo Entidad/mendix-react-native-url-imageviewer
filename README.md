@@ -5,7 +5,7 @@ Render image from URL attribute
 Allows rendition of image from URL attribute
 
 ## Usage
-Download one of the releases or build from source as follows
+Download one of the [releases](https://github.com/Entidad/mendix-react-url-imageviewer/releases) or build from source as follows
 
 ```
 git clone https://github.com/Entidad/mendix-react-url-imageviewer.git
