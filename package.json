@@ -1,0 +1,31 @@
+{
+  "name": "reactnativeurlviewer",
+  "widgetName": "Reactnativeurlviewer",
+  "version": "1.0.0",
+  "description": "My widget description",
+  "copyright": "2021 entidad",
+  "author": "Ockert",
+  "engines": {
+    "node": ">=12"
+  },
+  "config": {
+    "projectPath": "../..//"
+  },
+  "packagePath": "entidad",
+  "scripts": {
+    "start": "pluggable-widgets-tools start:native",
+    "build": "pluggable-widgets-tools build:native",
+    "lint": "pluggable-widgets-tools lint",
+    "lint:fix": "pluggable-widgets-tools lint:fix",
+    "prerelease": "npm run lint",
+    "release": "pluggable-widgets-tools release:native"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Ockert/reactnativeurlviewer/issues"
+  },
+  "devDependencies": {
+    "@mendix/pluggable-widgets-tools": "^9.0.0"
+  },
+  "dependencies": {}
+}
