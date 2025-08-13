@@ -13,7 +13,6 @@ class Reactnativeurlviewer extends Component {
       }
     }));
   }
-
 }
 
 export { Reactnativeurlviewer };
