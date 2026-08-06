@@ -1,17 +1,17 @@
 {
   "name": "reactnativeurlviewer",
   "widgetName": "Reactnativeurlviewer",
-  "version": "1.2.0",
+  "version": "2.0.0",
   "description": "View image from URL",
-  "copyright": "2021 entidad",
+  "copyright": "\u00a9 2021-2026 Entidad. All Rights Reserved.",
   "author": "Ockert",
   "engines": {
-    "node": ">=20"
+    "node": ">=20.19.4"
   },
   "config": {
     "projectPath": "./test/"
   },
-  "packagePath": "entidad",
+  "packagePath": "entidad.io.native",
   "scripts": {
     "start": "pluggable-widgets-tools start:native",
     "build": "pluggable-widgets-tools build:native",
@@ -25,6 +25,16 @@
     "url": "https://github.com/Entidad/mendix-react-url-imageviewer/issues"
   },
   "devDependencies": {
-    "@mendix/pluggable-widgets-tools": "^10.12.1"
+    "@mendix/pluggable-widgets-tools": "^11.12.0"
+  },
+  "resolutions": {
+    "react": "^19.2.0",
+    "@types/react": "^19.0.0",
+    "react-native": "0.84.1"
+  },
+  "overrides": {
+    "react": "^19.2.0",
+    "@types/react": "^19.0.0",
+    "react-native": "0.84.1"
   }
 }
