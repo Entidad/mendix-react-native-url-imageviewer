@@ -16,11 +16,11 @@ Version `2.0.0` is built against Mendix Pluggable Widgets Tools 11.12 (React 19,
 Native 0.84) and is **not backward compatible**. Stay on the `1.x` release for Studio Pro 10.
 
 ## Usage
-Download one of the [releases](https://github.com/Entidad/mendix-react-url-imageviewer/releases) or build from source as follows
+Download one of the [releases](https://github.com/Entidad/mendix-react-native-url-imageviewer/releases) or build from source as follows
 
 ```
-git clone https://github.com/Entidad/mendix-react-url-imageviewer.git
-cd ./mendix-react-url-imageviewer
+git clone https://github.com/Entidad/mendix-react-native-url-imageviewer.git
+cd ./mendix-react-native-url-imageviewer
 npm install
 npm run build
 ```
@@ -71,7 +71,7 @@ a connection.
 None at this time
 
 ## Issues, suggestions and feature requests
-[GitHub](https://github.com/Entidad/mendix-react-url-imageviewer/issues)
+[GitHub](https://github.com/Entidad/mendix-react-native-url-imageviewer/issues)
 
 
 ## Development and contribution

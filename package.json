@@ -22,7 +22,7 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Entidad/mendix-react-url-imageviewer/issues"
+    "url": "https://github.com/Entidad/mendix-react-native-url-imageviewer/issues"
   },
   "devDependencies": {
     "@mendix/pluggable-widgets-tools": "^11.12.0"
